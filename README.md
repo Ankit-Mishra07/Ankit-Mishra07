@@ -56,6 +56,19 @@
 <br/>
 <br/>
 
+## 📗 Latest blog posts:
+
+- **[Cloning Nykaa.com | A Functional And Visual Clone.](https://medium.com/@ankitmi468/cloning-of-nykaa-com-a-functional-and-visual-clone-9b3538a1c88d)**
+- **[Cloning hokmakeup.com | A functional and Visual clone](https://medium.com/@ankitmi468/cloning-hokmakeup-com-a-functional-and-visual-clone-203d3d4a5e89)**
+
+<br/>
+
+## 🎬 Project's YouTube videos:
+
+- **[Construct Week IX @MasaiSchool - Clone of Nykaa website by Team Nykaa](https://www.youtube.com/watch?v=E-VjvLnB6Eg)**
+
+<br/>
+
 ## Connect with me:
 <p align="left">
 
