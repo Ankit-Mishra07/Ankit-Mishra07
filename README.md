@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
 
-- 🌱 I’m currently learning **ReactJS | Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
 
 - 👯 I’m looking to work as **Web Developer**
 
