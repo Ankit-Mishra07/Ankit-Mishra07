@@ -75,7 +75,7 @@
 
 <a href = "https://www.linkedin.com/in/ankit-mishra-b96594195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://mobile.twitter.com/AnkitMi04386073"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ankitmi468/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://medium.com/@ankitmi468"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
 
 </p>
 
