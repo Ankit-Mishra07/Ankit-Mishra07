@@ -63,12 +63,18 @@
 
 - **[Cloning Nykaa.com | A Functional And Visual Clone.](https://medium.com/@ankitmi468/cloning-of-nykaa-com-a-functional-and-visual-clone-9b3538a1c88d)**
 - **[Cloning hokmakeup.com | A functional and Visual clone](https://medium.com/@ankitmi468/cloning-hokmakeup-com-a-functional-and-visual-clone-203d3d4a5e89)**
+- **[Cloning YouTube | A functional and Visual clone](https://medium.com/@ankitmi468/youtube-clone-a-visual-functional-clone-6f50ea8a9757)**
+- **[BingStar Movie Web Application | A functional and Visual Website](https://medium.com/@ankitmi468/bingstar-a-movie-search-web-application-70f478a5ee6b)**
 
 <br/>
 
 ## 🎬 Project's YouTube videos:
 
 - **[Construct Week IX @MasaiSchool - Clone of Nykaa website by Team Nykaa](https://www.youtube.com/watch?v=E-VjvLnB6Eg)**
+- **[Construct Week X @MasaiSchool - Clone of Nykaa website by Team Nykaa](https://youtu.be/jZs-XhFj-GQ)**
+- **[Construct Week VII @MasaiSchool - Clone of Hokmakeup website by Team Nykaa](https://youtu.be/fmRkK9wl4Yk)**
+- **[BingStar Movie Web App @MasaiSchool](https://youtu.be/hNrxQDyJYUs)**
+- **[Clone of YouTube @MasaiSchool](https://youtu.be/EUmdBnQEdB8)**
 
 <br/>
 
