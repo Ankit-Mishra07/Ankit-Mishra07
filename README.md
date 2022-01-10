@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I play games and watch the movies very often.**
 
+- 🔭 Know more about me **[Portfolio](https://ankitmishra-portfolio.netlify.app/)**
+
 ## 🚀 Languages and Tools:
 
 <p align="left">  
