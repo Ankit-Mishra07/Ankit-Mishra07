@@ -73,10 +73,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ankit-mishra-b96594195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mobile.twitter.com/AnkitMi04386073"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://medium.com/@ankitmi468"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
-
+<a href = "https://www.linkedin.com/in/ankit-mishra-b96594195/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://mobile.twitter.com/AnkitMi04386073" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+<a href = "mailto:ankitmi468@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+    
 </p>
 
 ## ❤ Views and Followers
