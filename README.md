@@ -27,7 +27,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.W_Louhgy0qKrsRO8YfURpQHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7" width="48" height="40"/> </a> 
+    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.LjkHq9cHAFFwas9xv395uAAAAA?w=166&h=180&c=7&r=0&o=5&pid=1.7" width="48" height="48"/> </a> 
      <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
       <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://expressjs.com" target="_blank" style="padding-left:8px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
