@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit Mishra</h1>
-<h3 align="center">I'm a passionate learner of Full Stack Developement from Masai School.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+- 🔭 I’m currently Instructional Associate at **[Masai School](https://www.masaischool.com/)**
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+- 🌱 Learnt **Full Stack Web Development from Masai School**
 
 - 👯 I’m looking to work as **Web Developer**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ankitmi468@gmail.com**
 
-- ⚡ Fun fact **I play games and watch the movies very often.**
+- ⚡ Fun fact **I love to ride bikes and watch the movies very often.**
 
 - 🔭 Know more about me **[Portfolio](https://ankitmishra-portfolio.netlify.app/)**
 
