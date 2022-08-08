@@ -10,7 +10,7 @@
 
 - 🌱 Learnt **Full Stack Web Development from Masai School**
 
-- 👯 I’m looking to work as **Web Developer**
+- 👯 I’m looking to work as **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Ankit-Mishra07?tab=repositories)**
 
@@ -87,10 +87,17 @@
 
 ## 📗 Latest blog posts:
 
+- **[Resume Builder — A functional and visual web application](https://medium.com/@ankitmi468/resume-builder-a-functional-and-visual-web-application-9f1145a8680)**
+- **[One Doc-A functional and visual web application](https://medium.com/@ankitmi468/one-doc-a-functional-and-visual-web-application-d743b1030bd7)**
+- **[GitHub User Search | A functional and visual web application](https://medium.com/@ankitmi468/github-user-search-a-functional-and-visual-frontend-web-application-1922e42930d4)**
+- **[Taskify — A task scheduler and reminder web application](https://medium.com/@ankitmi468/taskify-a-task-scheduler-and-reminder-web-application-3a48918481b6)**
+- **[Quizika — A Quiz Web Application](https://medium.com/@ankitmi468/quizika-a-quiz-web-application-368b698f4d14)**
+- **[Cloning Swiggy.com | A Functional And Visual Clone.](https://medium.com/@ankitmi468/cloning-of-swiggy-com-a-functional-and-visual-clone-eeb2df20e699)**
 - **[Cloning Nykaa.com | A Functional And Visual Clone.](https://medium.com/@ankitmi468/cloning-of-nykaa-com-a-functional-and-visual-clone-9b3538a1c88d)**
 - **[Cloning hokmakeup.com | A functional and Visual clone](https://medium.com/@ankitmi468/cloning-hokmakeup-com-a-functional-and-visual-clone-203d3d4a5e89)**
 - **[Cloning YouTube | A functional and Visual clone](https://medium.com/@ankitmi468/youtube-clone-a-visual-functional-clone-6f50ea8a9757)**
 - **[BingStar Movie Web Application | A functional and Visual Website](https://medium.com/@ankitmi468/bingstar-a-movie-search-web-application-70f478a5ee6b)**
+
 
 <br/>
 
