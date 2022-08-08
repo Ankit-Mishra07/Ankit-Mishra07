@@ -103,11 +103,17 @@
 
 ## 🎬 Project's YouTube videos:
 
-- **[Construct Week IX @MasaiSchool - Clone of Nykaa website by Team Nykaa](https://www.youtube.com/watch?v=E-VjvLnB6Eg)**
-- **[Construct Week X @MasaiSchool - Clone of Nykaa website by Team Nykaa](https://youtu.be/jZs-XhFj-GQ)**
-- **[Construct Week VII @MasaiSchool - Clone of Hokmakeup website by Team Nykaa](https://youtu.be/fmRkK9wl4Yk)**
-- **[BingStar Movie Web App @MasaiSchool](https://youtu.be/hNrxQDyJYUs)**
-- **[Clone of YouTube @MasaiSchool](https://youtu.be/EUmdBnQEdB8)**
+- **[Resume Builder — A functional and visual web application](https://youtu.be/PXmtsMenTaQ)**
+- **[One Doc-A functional and visual web application](https://youtu.be/gU-2Tr-o78k)**
+- **[GitHub User Search | A functional and visual web application](https://youtu.be/lE1JdQmyXI0)**
+- **[Taskify — A task scheduler and reminder web application](https://youtu.be/Wh-yBt8PJys)**
+- **[Quizika — A Quiz Web Application](https://youtu.be/qQWBFctJEWA)**
+- **[Cloning Swiggy.com | A Functional And Visual Clone.](https://youtu.be/onNbtsZUt2k)**
+- **[Construct Week IX @MasaiSchool - Clone of Nykaa website](https://www.youtube.com/watch?v=E-VjvLnB6Eg)**
+- **[Construct Week X @MasaiSchool - Clone of Nykaa website](https://youtu.be/jZs-XhFj-GQ)**
+- **[Construct Week VII @MasaiSchool - Clone of Hokmakeup website](https://youtu.be/fmRkK9wl4Yk)**
+- **[BingStar Movie Web Application](https://youtu.be/hNrxQDyJYUs)**
+- **[Clone of YouTube](https://youtu.be/EUmdBnQEdB8)**
 
 <br/>
 
