@@ -106,12 +106,14 @@
                                                                                                                                 
 <br>
                                                                                                                                               
-## 👩‍💻 Connect with me
+## 🌐 Socials
 <p align="left">
 <a href = "https://www.linkedin.com/in/ankit-mishra07/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:ankitmi468@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://ankitmishra-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://ankit-mishra-resume.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  <a href = "https://mobile.twitter.com/AnkitMi04386073" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>   
+<a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
 </p>
                                                                                                                        
  <br/>   
