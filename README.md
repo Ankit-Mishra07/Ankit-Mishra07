@@ -78,7 +78,7 @@
 
 ## 💻 Top Projects
 
-<a href="https://github.com/Ankit-Mishra07/resume_builder/" target="_blank">
+<!-- <a href="https://github.com/Ankit-Mishra07/resume_builder/" target="_blank">
 <img src="https://img.shields.io/badge/resume builder-%ED225D.svg?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="resume-builder" /> 
 </a>
 <a href="https://github.com/Ankit-Mishra07/OneDoc/">
@@ -86,7 +86,10 @@
 </a>
 <a href="https://github.com/Ankit-Mishra07/weather-webApplication/">
   <img src="https://img.shields.io/badge/Weather app-%233333FF.svg?style=for-the-badge&logo=rainmeter&logoColor=white" alt="weather" />
-</a>
+</a> -->
+ <a href="https://github.com/Ankit-Mishra07/Swiggy-Clone/">
+           <img src="https://img.shields.io/badge/clone of swiggy.com-%23FF6701.svg?style=for-the-badge&logo=swiggy&logoColor=white" alt="swiggy"/>
+  </a>
 <a href="https://github.com/Ankit-Mishra07/github-search/">
   <img src="https://img.shields.io/badge/github user search-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=github user search" />
 </a>
@@ -96,9 +99,9 @@
 <a href="https://github.com/Ankit-Mishra07/quizApp/">
   <img src="https://img.shields.io/badge/Quizika quiz app-%23D90007?style=for-the-badge&logo=webpack&logoColor=white" alt="quiz" />
 </a>
- <a href="https://github.com/Ankit-Mishra07/Swiggy-Clone/">
-           <img src="https://img.shields.io/badge/clone of swiggy.com-%23FF6701.svg?style=for-the-badge&logo=swiggy&logoColor=white" alt="swiggy"/>
-  </a>                                                                                                               
+<a href="https://github.com/Ankit-Mishra07/BingStar-movie-Search/">
+   <img src="https://img.shields.io/badge/Bing Star Movie search app-49021F?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="quiz" />                                                               
+</a>                                                                                                                                    
                                                                                                                                             
                                                                                                                                 
 <br>
@@ -171,9 +174,7 @@
 - **[Clone of YouTube](https://youtu.be/EUmdBnQEdB8)**
 
 <br/>
-
-
-
+ 
 ## ❤ Views and Followers
 <a href="https://github.com/Ankit-Mishra07/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankit-Mishra07">
