@@ -101,8 +101,18 @@
   </a>                                                                                                               
                                                                                                                                             
                                                                                                                                 
-<br />
-
+<br>
+                                                                                                                                              
+## 👩‍💻 Connect with me
+<p align="left">
+<a href = "https://www.linkedin.com/in/ankit-mishra07/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:ankitmi468@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href = "https://mobile.twitter.com/AnkitMi04386073" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>   
+</p>
+                                                                                                                       
+ <br/>   
+                                                                                                                       
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
@@ -162,15 +172,7 @@
 
 <br/>
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/ankit-mishra-b96594195/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mobile.twitter.com/AnkitMi04386073" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
-<a href = "mailto:ankitmi468@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-    
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Ankit-Mishra07/github-profile-views-counter">
