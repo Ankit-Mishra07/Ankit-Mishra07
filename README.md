@@ -1,8 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Ankit Mishra</h1>
-<h3 align="center">I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=passionate+Full+Stack+Web+Developer;MERN+stack+developer;Web+Developer;React+Developer;Quick+learner)](https://git.io/typing-svg)]</h3>
-<h3 align="center">I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
+<h3 align="center">I'm a Full Stack Web Developer</h3>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+stack+developer;Web+Developer;React+Developer;Quick+learner&color=0D1117&center=true" />
+</div>
+<br/>
 
 ## 🙋‍♂️ About Me
 
