@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Ankit Mishra</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
-
+<h3 align="center">I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=passionate+Full+Stack+Web+Developer;MERN+stack+developer;Web+Developer;React+Developer;Quick+learner)](https://git.io/typing-svg)]</h3>
+<h3 align="center">I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -19,6 +19,8 @@
 - ⚡ Fun fact **I love to ride bikes and watch the movies very often.**
 
 - 🔭 Know more about me **[Portfolio](https://ankitmishra-portfolio.netlify.app/)**
+
+- 👨‍🎓 Check it out my **[Resume Here](https://ankit-mishra-resume.netlify.app/)**
 
 ## 🚀 Languages and Tools:
 <p>
