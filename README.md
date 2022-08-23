@@ -69,18 +69,9 @@
 <br />
 <br />
 <br/>
-<!-- <p align="left">  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.LjkHq9cHAFFwas9xv395uAAAAA?w=166&h=180&c=7&r=0&o=5&pid=1.7" width="48" height="48"/> </a> 
-     <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
-      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://expressjs.com" target="_blank" style="padding-left:8px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p> -->
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+
+
 <br/>
 
 <p align="center">
@@ -88,6 +79,34 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Mishra07&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+
+## 💻 Top Projects
+
+<a href="https://github.com/Ankit-Mishra07/resume_builder/" target="_blank">
+<img src="https://img.shields.io/badge/resume builder-%ED225D.svg?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="resume-builder" /> 
+</a>
+<a href="https://github.com/Ankit-Mishra07/OneDoc/">
+  <img src="https://img.shields.io/badge/One Doc-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="one-doc" />
+</a>
+<a href="https://github.com/Ankit-Mishra07/weather-webApplication/">
+  <img src="https://img.shields.io/badge/Weather app-%233333FF.svg?style=for-the-badge&logo=rainmeter&logoColor=white" alt="weather" />
+</a>
+<a href="https://github.com/Ankit-Mishra07/github-search/">
+  <img src="https://img.shields.io/badge/github user search-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=github user search" />
+</a>
+<a href="https://github.com/Ankit-Mishra07/Taskify-schedule-reminder-app/">
+  <img src="https://img.shields.io/badge/Taskify-%233B4D98?style=for-the-badge&logo=clockify&logoColor=white" alt="taskify" />
+</a>
+<a href="https://github.com/Ankit-Mishra07/quizApp/">
+  <img src="https://img.shields.io/badge/Quizika quiz app-%23D90007?style=for-the-badge&logo=webpack&logoColor=white" alt="quiz" />
+</a>
+ <a href="https://github.com/Ankit-Mishra07/Swiggy-Clone/">
+           <img src="https://img.shields.io/badge/clone of swiggy.com-%23FF6701.svg?style=for-the-badge&logo=swiggy&logoColor=white" alt="swiggy"/>
+  </a>                                                                                                               
+                                                                                                                                            
+                                                                                                                                
+<br />
 
 ## 📊 My Github Stats
 
