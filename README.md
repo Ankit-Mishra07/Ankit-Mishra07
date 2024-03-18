@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Instructional Associate at **[Masai School](https://www.masaischool.com/)**
+- 🔭 I’m currently Senior Software Engineer at **[IDS NEXT](https://idsnext.com/)**
 
 - 🌱 Learnt **Full Stack Web Development from Masai School**
 
